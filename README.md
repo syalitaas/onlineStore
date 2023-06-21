@@ -8,7 +8,7 @@ Disini Saya membuat Web E-Commerce yang Saya beri nama Byopdees Store. Ini merup
 Web ini dapat melakukan transaksi jual beli dengan pembeli yang dilengkapi dengan login dan register akun. Selain itu, melakukan tambah, edit, hapus produk oleh admin.
 
 ## Screen Capture Projek
-![pantai base g]([https://github.com/syalitaas/onlineStore/issues/1#issue-1767493467](https://github.com/syalitaas/onlineStore/issues/1#issuecomment-1600748681))
+![Tampilan Utama](https://github.com/syalitaas/onlineStore/assets/117131647/14cb9656-4b46-4798-863b-4f59057017a4)
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
