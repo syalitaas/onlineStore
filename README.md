@@ -18,7 +18,6 @@ Web ini dapat melakukan transaksi jual beli dengan pembeli yang dilengkapi denga
 ![Screenshot 2023-06-21 191916](https://github.com/syalitaas/onlineStore/assets/117131647/0c6ecca9-0059-4ded-afd2-1ed102bd669d)
 ![Screenshot 2023-06-21 191937](https://github.com/syalitaas/onlineStore/assets/117131647/6cb8e738-4ea6-436e-9aec-1b9829668d32)
 
-
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
