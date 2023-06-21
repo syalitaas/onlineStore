@@ -9,6 +9,15 @@ Web ini dapat melakukan transaksi jual beli dengan pembeli yang dilengkapi denga
 
 ## Screen Capture Projek
 ![Tampilan Utama](https://github.com/syalitaas/onlineStore/assets/117131647/14cb9656-4b46-4798-863b-4f59057017a4)
+![Screenshot 2023-06-21 191329](https://github.com/syalitaas/onlineStore/assets/117131647/f5549d70-5cbe-4e98-bebd-7933195bdd97)
+![Screenshot 2023-06-21 191353](https://github.com/syalitaas/onlineStore/assets/117131647/f0d1823e-c9a9-43be-92e7-0ac4679a527e)
+![Screenshot 2023-06-21 191526](https://github.com/syalitaas/onlineStore/assets/117131647/d3601a67-73e0-446b-acd4-94be54318290)
+![Screenshot 2023-06-21 191430](https://github.com/syalitaas/onlineStore/assets/117131647/3f07c1cc-c3c1-445b-8848-ad3a18cb1be2)
+![Screenshot 2023-06-21 191451](https://github.com/syalitaas/onlineStore/assets/117131647/04c6f9f4-b257-4fc6-a428-89faacc1168e)
+![Screenshot 2023-06-21 191502](https://github.com/syalitaas/onlineStore/assets/117131647/2fe8aaea-4eb5-4665-8df1-d8746998c28d)
+![Screenshot 2023-06-21 191916](https://github.com/syalitaas/onlineStore/assets/117131647/0c6ecca9-0059-4ded-afd2-1ed102bd669d)
+![Screenshot 2023-06-21 191937](https://github.com/syalitaas/onlineStore/assets/117131647/6cb8e738-4ea6-436e-9aec-1b9829668d32)
+
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
