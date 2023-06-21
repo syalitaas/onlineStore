@@ -1,3 +1,15 @@
+# UTS E-COMMERCE LARAVEL PROJECT
+Nama : Syalita Widyandini,
+NIM : 3.34.21.3.23,
+No Absen : 20,
+Kelas : IK-2D
+
+Disini Saya membuat Web E-Commerce yang Saya beri nama Byopdees Store. Ini merupakan E-Commerce yang menjual kebutuhan Skincare, Make Up, dan Parfum.
+Web ini dapat melakukan transaksi jual beli dengan pembeli yang dilengkapi dengan login dan register akun. Selain itu, melakukan tambah, edit, hapus produk oleh admin.
+
+## Screen Capture Projek
+![pantai base g](https://user-images.githubusercontent.com/117131647/199218338-2fb042f1-b38c-42b4-8097-40d0bb956421.png)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
