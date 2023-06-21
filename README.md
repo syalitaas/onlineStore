@@ -4,8 +4,8 @@ NIM : 3.34.21.3.23,
 No Absen : 20,
 Kelas : IK-2D
 
-Disini Saya membuat Web E-Commerce yang Saya beri nama Byopdees Store. Ini merupakan E-Commerce yang menjual kebutuhan Skincare, Make Up, dan Parfum.
-Web ini dapat melakukan transaksi jual beli dengan pembeli yang dilengkapi dengan login dan register akun. Selain itu, melakukan tambah, edit, hapus produk oleh admin.
+Disini Saya membuat Web E-Commerce yang Saya beri nama Byopdees Store. E-Commerce ini menjual kebutuhan Skincare, Make Up, dan Parfum.
+Di Web E-Commerce ini, kita dapat melihat produk yang dijual, menambahkan produk ke keranjang, melakukan transaksi jual beli, melakukan login dan register user. Selain itu, melakukan tambah, edit, hapus produk oleh user admin. 
 
 ## Screen Capture Projek
 ![Tampilan Utama](https://github.com/syalitaas/onlineStore/assets/117131647/14cb9656-4b46-4798-863b-4f59057017a4)
